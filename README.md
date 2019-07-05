@@ -2,7 +2,7 @@
 
 This repository contains public key infrastructure (PKI) for issuing keys to various services.
 
-See [LICENSE](https://github.com/linuxuser586/apis/blob/master/LICENSE)
+See [LICENSE](https://github.com/linuxuser586/pki/blob/master/LICENSE)
 
 ## Run
 
